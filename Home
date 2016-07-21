@@ -1,0 +1,19 @@
+<head>
+  <title>A Tribute to Lekan</title>
+  <link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+  <img src="#">
+  <h1>Lekan Ogundapo</h1>
+  <ul>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Photos</a></li>
+    <li><a href="#">Videos</a></li>
+    <li><a href="#">Location</a></li>
+    <li><a href="#">FAQ</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+  <p>Click here to see what comes up when you <a href="#">google Lekan</a>!</p>
+
+</body>
